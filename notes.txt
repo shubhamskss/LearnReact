@@ -1,0 +1,28 @@
+Q1)hat is emmet
+ans;=> emmet allows us to write shortcuts that are then expanded into a full piece of  code
+
+Q2)diffrence between library and framework
+ans:=>when we use framwwork ,the framework is incharge of flow,. but when we use library we are incharge of flow of application,
+we are choosing when and where to call library.
+
+Q3)why react is known as react
+ans:=>React was developed for faceboo that has constantly changing data.since react is a frot-end framework in MVC, this means
+the user click around and changes app's data, the view should react or change with those events
+
+
+Q4)what is crossorigin in script tag
+ans:=>cross origin attributes set the mode of request toan http cors request.web pages often make request toload resources 
+on other servers
+a cross origin request is a request for a resource from another domain
+
+Q5)what is diffrence between React and ReactDOM
+ans:=>React library is responsible for creating views and ReactDOM library is responsble  to actualy render UI in browser
+
+Q6)async vs defer
+IN normal html parsing blocked as soon as script tag encountered,scripts are fetched from network and then executed, after then
+html parsing continues
+
+in async tag, the html parsing goes on and script are fetched in async manner and parllaley, and as soon
+as script available,scripts is executed then after html parsing continues
+
+in case of derfer tag html parsing goes on scripts are fetched in parallel, and only executed when html parsing is completed
