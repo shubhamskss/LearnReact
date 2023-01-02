@@ -26,3 +26,12 @@ in async tag, the html parsing goes on and script are fetched in async manner an
 as script available,scripts is executed then after html parsing continues
 
 in case of derfer tag html parsing goes on scripts are fetched in parallel, and only executed when html parsing is completed
+
+
+chapter2
+Q1what is npm
+
+there is no official full form of npm, but it is used to manages all the packages
+
+Q2 what is parcel/webpack? why we need this
+
